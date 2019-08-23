@@ -1,0 +1,11 @@
+---
+declared-services:
+  cdd-cognos-dashboard:
+    label: dynamic-dashboard-embedded
+    plan: lite
+applications:
+  - name: ibm-cognos-dashboard-demo
+    random-route: false
+    memory: 256M
+    services:
+      - cdd-cognos-dashboard
