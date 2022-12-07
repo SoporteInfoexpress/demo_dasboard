@@ -37,7 +37,7 @@
     "bootstrap": "4.0.0",
     "cfenv": "^1.0.x",
     "core-js": "^2.4.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "jsrsasign": "^8.0.4",
     "ngx-bootstrap": "^2.0.2",
     "popper.js": "^1.12.9",
